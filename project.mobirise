@@ -58,7 +58,7 @@
         "main": true,
         "title": "Pesquisa de Satisfação - InBot 2020",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<script src=\"https://code.jquery.com/jquery-latest.min.js\"></script>\n\n<script>\nbot_id = '407';\nbot_token = 'Virt04@5575Tant';\n</script>\n<script id='chatscript' src=\"https://in.bot/api/inbot.js\" async></script>",
         "footer_custom": "",
         "html_before": ""
       },
